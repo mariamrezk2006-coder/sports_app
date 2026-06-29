@@ -106,7 +106,7 @@ flutter run
 
 ## 👩‍💻 Developer
 
-**Romella Rezk**
+**Mariam  Rezk**
 
 Business Information Systems (BIS) Student
 
