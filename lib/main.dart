@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sports_app/features/auth/login_screen.dart';
 import 'package:sports_app/features/home/home_screen.dart';
 
 void main() {
@@ -17,7 +18,7 @@ class SportsApp extends StatelessWidget {
         useMaterial3: true,
         scaffoldBackgroundColor: Colors.white,
       ),
-      home: const HomeScreen(),
+      home: const LoginScreen(),
     );
   }
 }
